@@ -51,25 +51,29 @@ header {
 
 /*climbing reasons style*/
 
-#reasons-box {
-    width: 80%;
-    height: 500px;
-    display: block;
+#climbing-reasons {
+    width: 66%;
+    height: 300px;
+    padding-left: 17%;
 }
 
 .reasons {
-    width: 22%;
+    width: 33%;
     height: 300px;
 }
 
 #reason-1 {
     background-color: lightsteelblue;
+    float:left;
 }
 
 #reason-2 {
     background-color: lightpink;
+    float: left;
+    width: 34%;
 }
 
 #reason-3 {
     background-color: lightskyblue;
+    float: right;
 }
