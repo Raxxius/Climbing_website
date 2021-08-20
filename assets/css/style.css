@@ -12,3 +12,30 @@ body {
 /* placeholder color to be changed */
     color: darkslategray;
 }
+
+header {
+    font-size: 150%;
+    height: 60px;
+    background-color: aquamarine;
+    width: 100%;
+}
+
+#logo {
+    text-transform: uppercase;
+    float: left;
+    margin-left: 35px;
+}
+
+
+#menu {
+    padding-top: 15px;
+    text-transform: capitalize;
+    float: right;
+    text-decoration: lightslategrey;
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
