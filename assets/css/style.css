@@ -13,19 +13,20 @@ body {
     color: darkslategray;
 }
 
+/* header style */
+
 header {
     font-size: 150%;
-    height: 60px;
+    overflow: auto;
     background-color: aquamarine;
     width: 100%;
 }
 
 #logo {
-    text-transform: uppercase;
-    float: left;
+    text-transform: uppercase; 
     margin-left: 35px;
+    float: left;
 }
-
 
 #menu {
     padding-top: 15px;
@@ -39,3 +40,4 @@ header {
     list-style-type: none;
     margin-right: 30px;
 }
+
