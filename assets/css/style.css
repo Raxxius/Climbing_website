@@ -41,3 +41,10 @@ header {
     margin-right: 30px;
 }
 
+/*hero image css*/
+
+#hero-image {
+    height: 480px;
+    width: 100%;
+    background-color: lightcoral;
+}
