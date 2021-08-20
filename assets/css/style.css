@@ -48,3 +48,28 @@ header {
     width: 100%;
     background-color: lightcoral;
 }
+
+/*climbing reasons style*/
+
+#reasons-box {
+    width: 80%;
+    height: 500px;
+    display: block;
+}
+
+.reasons {
+    width: 22%;
+    height: 300px;
+}
+
+#reason-1 {
+    background-color: lightsteelblue;
+}
+
+#reason-2 {
+    background-color: lightpink;
+}
+
+#reason-3 {
+    background-color: lightskyblue;
+}
