@@ -53,7 +53,6 @@ header {
 
 #climbing-reasons {
     height: 500px;
-    display: block;
     overflow: hidden;
 }
 
@@ -64,22 +63,20 @@ header {
 .reasons {
     width: 33%;
     height: 300px;
+    display: inline-block;
 }
 
 #reason-1 {
     background-color: lightsteelblue;
-    float:left;
 }
 
 #reason-2 {
     width: 34%;
     background-color: lightpink;
-    float: left;
 }
 
 #reason-3 {
     background-color: lightskyblue;
-    float: left;
 }
 
 .reasons-text {
