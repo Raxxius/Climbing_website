@@ -58,9 +58,6 @@ header {
 
 #reasons-box {
     height: 300px;
-    width: 80%;
-    min-width: 800px;
-    margin: 0 auto;
 }
 
 .reasons {
@@ -86,17 +83,17 @@ header {
 
 #reasons-text {
     height: 200px;
-    width: 80%;
-    min-width: 800px;
     background-color: lightgreen;
-    margin: 0 auto;
 }
 
 #climb-more-info {
     height: 300px; 
+    background-color: lightsalmon;
+}
+
+.reasons-style { 
     width: 80%;
     min-width: 800px;
-    background-color: lightsalmon;
     margin: 0 auto;
 }
 
