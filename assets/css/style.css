@@ -119,9 +119,16 @@ header {
 
 @media screen and (max-width: 800px) {
 
+#climbing-reasons {
+    height: 1500px;
+}
+
+#reasons-box {
+ height: 900px;
+}
+
 .reasons-style {
-    width: 100%;
-    margin-left: 0;
+    width: 80%;
     min-width: 0;
 }
 
