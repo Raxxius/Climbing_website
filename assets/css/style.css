@@ -54,7 +54,7 @@ header {
 #climbing-reasons {
     width: 66%;
     height: 500px;
-    padding-left: 17%;
+    margin-left: 17%;
 }
 
 .reasons {
@@ -83,4 +83,11 @@ header {
     width: 100%;
     background-color: lightgreen;
     float: left;
+}
+
+#climb-more-info {
+    height: 300px; 
+    width: 66%;
+    background-color: lightsalmon;
+    margin-left: 17%;
 }
