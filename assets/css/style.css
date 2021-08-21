@@ -58,7 +58,8 @@ header {
 
 #reasons-box {
     height: 300px;
-    max-width: 800px;
+    width: 66%;
+    min-width: 800px;
     margin: 0 auto;
 }
 
