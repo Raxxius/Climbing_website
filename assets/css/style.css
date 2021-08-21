@@ -73,6 +73,7 @@ header {
 }
 
 #reason-2 {
+    width: 34%;
     background-color: lightpink;
     float: left;
 }
