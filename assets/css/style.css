@@ -54,6 +54,7 @@ header {
 #climbing-reasons {
     height: 500px;
     display: block;
+    overflow: hidden;
 }
 
 #reasons-box {
@@ -101,17 +102,17 @@ header {
 
 .reasons-text-1 {
     display: contents;
-    content: "reasons text box 1"
+    content: "reasons text box 1";
 }
 
 .reasons-text-2 {
     display: contents;
-    content: "reasons text box 1"
+    content: "reasons text box 1";
 }
 
 .reasons-text-3 {
     display: contents;
-    content: "reasons text box 1"
+    content: "reasons text box 1";
 }
 
 /* responsive CSS */
