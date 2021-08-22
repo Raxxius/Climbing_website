@@ -159,23 +159,23 @@ header {
 /* responsive CSS */
 
 @media screen and (min-width: 600px) {
-    .reasons-style {
+    #olympic-parent-flex {
         width: 80%;
         margin-left: 10%;
     }
 
     .olympic-content {
-        width: 80%;
+        width: 100%;
         order: 1;
     }
 
     .olympic-picture {
-        width: 40%;
+        width: 50%;
         order: 2;
     }
 
     .olympic-result {
-        width: 40%
+        width: 50%
     }
 
 }
@@ -229,6 +229,10 @@ header {
 
     #reasons-text-3 {
         order: 6;
+    }
+
+    #olympic-parent-flex {
+        width: 66%;
     }
 
     .olympic-content {
