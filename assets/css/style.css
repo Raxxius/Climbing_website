@@ -89,9 +89,6 @@ header {
     background-color: lightsalmon;
 }
 
-.reasons-style { 
-}
-
 /* responsive text box 
 
 .reasons-text-1::before {
@@ -113,5 +110,9 @@ header {
 /* responsive CSS */
 
 @media screen and (min-width: 700px) {
-    
+    .reasons-style {
+        width: 80%;
+        margin-left: 10%;
+    }
+
 }
