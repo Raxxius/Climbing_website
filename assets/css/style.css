@@ -156,10 +156,29 @@ header {
         width: 80%;
         margin-left: 10%;
     }
+
+    .olympic-content {
+        width: 80%;
+        order: 1;
+    }
+
+    .olympic-picture {
+        width: 40%;
+        order: 2;
+    }
+
 }
 
+
+
+
+
 @media screen and (min-width: 800px) {
-    
+
+    .reasons-style {
+        width: 60%;
+        margin-left: 20%;
+    }
     #climbing-reasons {
         height: 500px;
     }
@@ -202,4 +221,15 @@ header {
     #reasons-text-3 {
         order: 6;
     }
+
+    .olympic-content {
+        width: 34%;
+    }
+
+    .olympic-picture {
+        width: 33%;
+        order: 1;
+    }
+
+
 }
