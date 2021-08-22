@@ -117,9 +117,15 @@ header {
 }
 
 @media screen and (min-width: 800px) {
+    
+    #climbing-reasons {
+        height: 500px;
+    }
+    
     #reasons-box {
         height: 500px;
         flex-flow: row wrap;
+        overflow: hidden;
     }
 
     .reasons {
