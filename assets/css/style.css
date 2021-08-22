@@ -59,7 +59,7 @@ header {
 #reasons-box {
     height: 1500px;
     display: flex;
-    flex-direction: column;
+    flex-flow: column;
     background-color: black;
 }
 
@@ -109,10 +109,49 @@ header {
 
 /* responsive CSS */
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 600px) {
     .reasons-style {
         width: 80%;
         margin-left: 10%;
     }
+}
 
+@media screen and (min-width: 800px) {
+    #reasons-box {
+        height: 500px;
+        flex-flow: row wrap;
+    }
+
+    .reasons {
+        width: 33%;
+    }
+
+    #reason-1{
+        order: 1;
+    }
+
+    #reason-2 {
+        width: 34%;
+        order: 2;
+    }
+
+    #reason-3 {
+        order: 3;
+    }
+
+    .reasons-text {
+    width: 100%;
+    }
+
+    #reasons-text-1 {
+        order: 4;
+    }
+
+    #reasons-text-2 {
+        order: 5;
+    }
+
+    #reasons-text-3 {
+        order: 6;
+    }
 }
