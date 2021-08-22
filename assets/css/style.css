@@ -69,6 +69,13 @@ header {
 
 #reason-1 {
     background-color: lightsteelblue;
+/*    background-image: url(../images/about1.jpg); */
+}
+
+#reason-image-1 {
+    height: 300px;
+    background-image: url(../images/about1.jpg);
+    background-size: 100%;
 }
 
 #reason-2 {
@@ -88,6 +95,8 @@ header {
     height: 300px; 
     background-color: lightsalmon;
 }
+
+
 
 /* responsive text box 
 
