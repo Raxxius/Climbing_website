@@ -100,19 +100,19 @@ header {
 
 .olympic-content {
     height: 300px;
-    width: 30%;
+    width: 100%;
     background-color: cadetblue;
 }
 
 .olympic-picture {
     height: 300px;
-    width: 30%;
+    width: 100%;
     background-color: lemonchiffon;
 }
 
 .intro {
     height: 150px;
-    width: 40%;
+    width: 100%;
     background-color: lightpink;
 }
 
@@ -126,7 +126,10 @@ header {
 .olympic-display {
     display: flex;
     flex-flow: row wrap;
+    width: 100%;
+    justify-content: center;
 }
+
 
 /* responsive text box 
 
