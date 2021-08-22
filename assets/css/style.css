@@ -58,12 +58,12 @@ header {
 
 #reasons-box {
     height: 300px;
+    display: flex;
 }
 
 .reasons {
     width: 33%;
     height: 300px;
-    display: inline-block;
 }
 
 #reason-1 {
@@ -95,9 +95,9 @@ header {
     margin: 0 auto;
 }
 
-/* responsive text box */
+/* responsive text box 
 
-.reasons-text-1 {
+.reasons-text-1::before {
     display: contents;
     content: "reasons text box 1";
 }
@@ -111,6 +111,7 @@ header {
     display: contents;
     content: "reasons text box 1";
 }
+*/
 
 /* responsive CSS */
 
