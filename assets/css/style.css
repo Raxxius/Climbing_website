@@ -130,6 +130,13 @@ header {
     justify-content: center;
 }
 
+.olympic-result {
+    height: 300px;
+    width: 100%;
+    background-color: lightyellow;
+}
+
+
 
 /* responsive text box 
 
@@ -167,9 +174,11 @@ header {
         order: 2;
     }
 
+    .olympic-result {
+        width: 40%
+    }
+
 }
-
-
 
 
 
@@ -230,6 +239,5 @@ header {
         width: 33%;
         order: 1;
     }
-
 
 }
