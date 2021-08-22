@@ -52,13 +52,15 @@ header {
 /*climbing reasons style*/
 
 #climbing-reasons {
-    height: 500px;
+    height: 1500px;
     overflow: hidden;
 }
 
 #reasons-box {
     height: 300px;
     display: flex;
+    flex-direction: column;
+    background-color: black;
 }
 
 .reasons {
