@@ -16,7 +16,7 @@ body {
 /* header style */
 
 header {
-    font-size: 150%;
+    font-size: 100%;
     overflow: auto;
     background-color: aquamarine;
     width: 100%;
@@ -57,14 +57,13 @@ header {
 }
 
 #reasons-box {
-    height: 300px;
+    height: 1500px;
     display: flex;
     flex-direction: column;
     background-color: black;
 }
 
 .reasons {
-    width: 33%;
     height: 300px;
 }
 
@@ -73,7 +72,6 @@ header {
 }
 
 #reason-2 {
-    width: 34%;
     background-color: lightpink;
 }
 
@@ -92,9 +90,6 @@ header {
 }
 
 .reasons-style { 
-    width: 80%;
-    min-width: 800px;
-    margin: 0 auto;
 }
 
 /* responsive text box 
@@ -117,27 +112,6 @@ header {
 
 /* responsive CSS */
 
-@media screen and (max-width: 800px) {
-
-#climbing-reasons {
-    height: 1500px;
-}
-
-#reasons-box {
- height: 900px;
-}
-
-.reasons-style {
-    width: 80%;
-    min-width: 0;
-}
-
-.reasons {
-    width: 100%;
-    margin: 0 auto;
-}
-
-#reason-2 {
-    width: 100%;
-}
+@media screen and (min-width: 700px) {
+    
 }
