@@ -209,6 +209,21 @@ header {
         margin-left: 10%;
     }
 
+    .startup-content {
+        width: 100%;
+        order: 1;
+    }
+
+    .startup-picture {
+        width: 40%;
+        order: 1;
+    }
+
+    .startup-text {
+        width: 60%;
+        order: 2;
+    }
+
 }
 
 @media screen and (min-width: 800px) {
