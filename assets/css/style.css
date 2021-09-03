@@ -204,9 +204,12 @@ header {
         width: 50%
     }
 
+    #startup-parent-flex {
+        width: 80%;
+        margin-left: 10%;
+    }
+
 }
-
-
 
 @media screen and (min-width: 800px) {
 
@@ -270,5 +273,13 @@ header {
         width: 33%;
         order: 1;
     }
+
+    #startup-parent-flex {
+        width: 66%;
+        margin-left: 17%;
+    }
+
+
+
 
 }
