@@ -136,7 +136,33 @@ header {
     background-color: lightyellow;
 }
 
+/*startup page CSS */
 
+#startup-parent-flex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.startup-display {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    justify-content: center;
+}
+
+.startup-text {
+    height: 300px;
+    width: 100%;
+    background-color: cadetblue;
+}
+
+.startup-picture {
+    height: 300px;
+    width: 100%;
+    background-color: lemonchiffon;
+}
 
 /* responsive text box 
 
