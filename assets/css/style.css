@@ -24,7 +24,8 @@ header {
     flex-wrap: wrap;
     justify-content: space-between;
     background-color: whitesmoke;
-    position: fixed;
+    position: sticky;
+    top: 0;
     z-index: 1;
 }
 
@@ -56,7 +57,7 @@ header {
 /*hero image css*/
 
 #hero-image {
-    padding-top: 120px;
+    padding-top: 160px;
     height: 480px;
     width: 100%;
     background-color: lightgrey;
