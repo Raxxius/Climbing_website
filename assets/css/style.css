@@ -223,6 +223,10 @@ header {
         height: 60px;
     }
 
+    #hero-text {
+        top: 390px;
+    }
+
     #olympic-parent-flex {
         width: 80%;
         margin-left: 10%;
