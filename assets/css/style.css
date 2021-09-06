@@ -61,7 +61,7 @@ header {
     width: 100%;
     background-color: lightgrey;
 /* image from https://jimmychin.com/wp-content/uploads/2019/01/FreeSolo_07_1-1200x675.jpg */
-    background: url('../images/hero-image.jpg') no-repeat 20% 100%;
+    background: url('../images/hero-image.jpg') no-repeat 20% 50%;
     background-size: cover;
 }
 
@@ -103,22 +103,34 @@ header {
 
 #reason-1 {
     background-color: lightsteelblue;
-/*    background-image: url(../images/about1.jpg); */
 }
 
 #reason-image-1 {
     height: 300px;
     background-image: url(../images/about1.jpg);
-    background-size: 100%;
+    overflow: hidden;
 }
 
 #reason-2 {
     background-color: lightpink;
 }
 
+#reason-image-2 {
+    height: 300px;
+    background: url(../images/about2.jpg) no-repeat;
+    background-size: 100%;
+}
+
 #reason-3 {
     background-color: lightskyblue;
 }
+
+#reason-image-3 {
+    height: 300px;
+    background: url(../images/about3.jpg) no-repeat;
+    background-size: 100%;
+}
+
 
 .reasons-text {
     height: 200px;
@@ -269,6 +281,11 @@ header {
 }
 
 @media screen and (min-width: 800px) {
+
+    #menu {
+        font-size: 100%;
+        margin: 0 30px;
+    }
 
     #hero-text {
         width: 400px;
