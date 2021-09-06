@@ -18,13 +18,11 @@ body {
 header {
     font-size: 150%;
     font-weight: 400;
-    height: 60px;
-    top: 0px;
-    width: 100%;
-    overflow: hidden;
-    position: fixed;
+    height: 120px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     background-color: whitesmoke;
-    z-index: 2;
 }
 
 #logo {
