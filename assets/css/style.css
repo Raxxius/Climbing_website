@@ -109,6 +109,8 @@ header {
     height: 300px;
     background-image: url(../images/about1.jpg);
     overflow: hidden;
+    background-size: 800px;
+    background-position: 50% 20%;
 }
 
 #reason-2 {
@@ -118,6 +120,7 @@ header {
 #reason-image-2 {
     height: 300px;
     background: url(../images/about2.jpg) no-repeat;
+    overflow: hidden;
     background-size: 100%;
 }
 
