@@ -270,10 +270,19 @@ header {
 
 @media screen and (min-width: 800px) {
 
+    #hero-text {
+        width: 400px;
+        border-radius: 25px;
+        top: 320px;
+        right: 5%;
+    }
+
+
     .reasons-style {
         width: 60%;
         margin-left: 20%;
     }
+
     #climbing-reasons {
         height: 500px;
     }
