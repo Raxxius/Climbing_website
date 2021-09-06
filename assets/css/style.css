@@ -16,16 +16,21 @@ body {
 /* header style */
 
 header {
-    font-size: 100%;
-    overflow: auto;
-    background-color: aquamarine;
+    font-size: 150%;
+    font-weight: 400;
+    height: 60px;
+    top: 0px;
     width: 100%;
+    overflow: hidden;
+    position: fixed;
+    background-color: whitesmoke;
+    z-index: 2;
 }
 
 #logo {
-    text-transform: uppercase; 
-    margin-left: 35px;
+    text-transform: uppercase;
     float: left;
+    margin-left: 35px;
 }
 
 #menu {
@@ -39,6 +44,11 @@ header {
     float: left;
     list-style-type: none;
     margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
 }
 
 /*hero image css*/
