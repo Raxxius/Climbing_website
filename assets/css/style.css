@@ -162,8 +162,13 @@ header {
 
 .intro {
     height: 150px;
+    font-size: 150%;
     width: 100%;
-    background-color: lightpink;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: whitesmoke;
 }
 
 #olympic-parent-flex {
