@@ -192,9 +192,10 @@ header {
 }
 
 #olympic-speed-1 {
-    height: 300px;
-    background: url(../images/speedwall-sketch.png) ;
-    width: 33%;
+    height: 300px; 
+    background: url(../images/speedwall-sketch.png) no-repeat;
+    background-size: contain;
+    background-position: center;
 }
 
 /*startup page CSS */
