@@ -300,7 +300,7 @@ header {
 
 }
 
-@media screen and (min-width: 800px) {
+@media screen and (min-width: 1070px) {
 
     #menu {
         font-size: 100%;
