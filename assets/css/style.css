@@ -217,10 +217,13 @@ header {
     visibility: hidden;
 }
 
-#olympic-results-3 img {
-    height: 100%;
+.olympic-result {
+    overflow: hidden;
 }
 
+.olympic-result img {
+    height: 100%;
+}
 
 /*startup page CSS */
 
