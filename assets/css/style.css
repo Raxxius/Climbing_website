@@ -218,11 +218,12 @@ header {
 }
 
 .olympic-result {
+    height: 400px;
     overflow: hidden;
 }
 
 .olympic-result img {
-    height: 100%;
+    height: 80%;
 }
 
 /*startup page CSS */
