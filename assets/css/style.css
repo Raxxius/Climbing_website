@@ -217,6 +217,11 @@ header {
     visibility: hidden;
 }
 
+#olympic-results-3 img {
+    height: 100%;
+}
+
+
 /*startup page CSS */
 
 #startup-parent-flex {
