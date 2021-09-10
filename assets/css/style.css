@@ -316,6 +316,7 @@ header {
     #startup-parent-flex {
         width: 80%;
         margin-left: 10%;
+        flex-wrap: wrap;
     }
 
     .startup-picture {
@@ -328,6 +329,10 @@ header {
         order: 1;
     }
 
+    .sub_intro {
+        width: 60%;
+        order: 1;
+    }
 }
 
 @media screen and (min-width: 1080px) {
