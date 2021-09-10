@@ -243,7 +243,7 @@ header {
 }
 
 .startup-text {
-    height: 300px;
+    height: 250px;
     width: 100%;
     background-color: cadetblue;
 }
@@ -255,7 +255,7 @@ header {
 }
 
 .sub_intro {
-    height: 150px;
+    height: 50px;
     font-size: 150%;
     width: 100%;
     display: flex;
@@ -263,6 +263,12 @@ header {
     justify-content: flex-end;
     align-items: center;
     background-color: whitesmoke;
+}
+
+#getting-into-climbing-intro {
+    height: 300px;
+    width: 100%;
+    background-color: bisque;
 }
 
 /* responsive text box 
@@ -317,11 +323,12 @@ header {
         width: 80%;
         margin-left: 10%;
         flex-wrap: wrap;
+        height: 900px;
     }
 
     .startup-picture {
         width: 40%;
-        order: 2;
+        order: 3;
     }
 
     .startup-text {
@@ -333,6 +340,22 @@ header {
         width: 60%;
         order: 1;
     }
+
+    #getting-into-climbing-intro {
+        width: 80%;
+        margin-left: 10%;
+        display: flex;
+    }
+
+    #startup-intro {
+        width: 40%;
+        color: cadetblue;
+    }
+
+    #startup-intro-picture {
+        width: 60%;
+    }
+
 }
 
 @media screen and (min-width: 1080px) {
@@ -429,7 +452,10 @@ header {
         margin-left: 17%;
     }
 
-
+    #getting-into-climbing-intro {
+        width: 66%;
+        margin-left: 17%;
+    }
 
 
 }
