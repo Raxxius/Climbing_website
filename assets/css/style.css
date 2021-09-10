@@ -254,6 +254,17 @@ header {
     background-color: lemonchiffon;
 }
 
+.sub_intro {
+    height: 150px;
+    font-size: 150%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: whitesmoke;
+}
+
 /* responsive text box 
 
 .reasons-text-1::before {
@@ -307,19 +318,14 @@ header {
         margin-left: 10%;
     }
 
-    .startup-content {
-        width: 100%;
-        order: 1;
-    }
-
     .startup-picture {
         width: 40%;
-        order: 1;
+        order: 2;
     }
 
     .startup-text {
         width: 60%;
-        order: 2;
+        order: 1;
     }
 
 }
