@@ -254,6 +254,11 @@ header {
     background-color: lemonchiffon;
 }
 
+.startup-picture img {
+    height: 100%;
+    overflow: hidden;
+}
+
 .sub_intro {
     height: 50px;
     font-size: 150%;
