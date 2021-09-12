@@ -252,11 +252,11 @@ header {
     height: 300px;
     width: 100%;
     background-color: lemonchiffon;
+    overflow: hidden;
 }
 
 .startup-picture img {
     height: 100%;
-    overflow: hidden;
 }
 
 .sub_intro {
