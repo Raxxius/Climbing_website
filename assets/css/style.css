@@ -54,7 +54,19 @@ header {
     color: inherit;
 }
 
-/*hero image css*/
+/* footer style */
+
+footer {
+    height: 120px;
+    width: 100%;
+    text-align: center;
+}
+
+#footer-social {
+    display: inline;
+}
+
+/* hero image css */
 
 #hero-image {
     height: 480px;
