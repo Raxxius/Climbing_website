@@ -62,8 +62,30 @@ footer {
     text-align: center;
 }
 
+footer p {
+    width: 33%;
+}
+
+#footerflex {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: baseline;
+    padding: 5%;
+}
+
+.footer-social {
+    height: 60px;
+    font-size: 200%;
+}
+
 .footer-social li {
     display: inline;
+    width: 33%;
+}
+
+.footer-social i {
+    padding: 5%;
+    color: brown;
 }
 
 /* hero image css */
