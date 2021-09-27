@@ -62,11 +62,13 @@ footer {
     text-align: center;
 }
 
-#footer-social {
+.footer-social li {
     display: inline;
 }
 
 /* hero image css */
+
+
 
 #hero-image {
     height: 480px;
