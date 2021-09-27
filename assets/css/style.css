@@ -57,7 +57,7 @@ header {
 /* footer style */
 
 footer {
-    height: 120px;
+    height: 80px;
     width: 100%;
     text-align: center;
 }
@@ -76,15 +76,15 @@ footer p {
 .footer-social {
     height: 60px;
     font-size: 200%;
+    width: 33%;
 }
 
 .footer-social li {
     display: inline;
-    width: 33%;
+    padding: 5%
 }
 
 .footer-social i {
-    padding: 5%;
     color: brown;
 }
 
