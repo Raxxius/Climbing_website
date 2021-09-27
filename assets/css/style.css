@@ -232,7 +232,6 @@ footer p {
 
 #olympic-speed-1 img {
     /* https://walltopia.com/en/climbing-walls/speed-walls */
-
 }
 
 #olympic-speed-2 {
@@ -311,6 +310,21 @@ footer p {
     width: 100%;
     background-color: bisque;
 }
+
+/* index responsive text */
+
+#reason-image-1:hover {
+    opacity: 0.5;
+}
+
+#reason-image-2:hover {
+    opacity: 0.5;
+}
+
+#reason-image-3:hover {
+    opacity: 0.5;
+}
+
 
 /* responsive text box 
 
