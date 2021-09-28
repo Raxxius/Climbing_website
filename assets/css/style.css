@@ -308,7 +308,15 @@ footer p {
 #getting-into-climbing-intro {
     height: 300px;
     width: 100%;
-    background-color: bisque;
+    background-color: whitesmoke;
+}
+
+#startup-intro {
+    padding: 25px;
+}
+
+#startup-intro p {
+    margin: 15px;
 }
 
 /* index responsive text */
@@ -404,7 +412,6 @@ footer p {
 
     #startup-intro {
         width: 40%;
-        color: cadetblue;
     }
 
     #startup-intro-picture {
