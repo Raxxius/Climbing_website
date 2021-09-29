@@ -191,6 +191,10 @@ footer p {
     background-color: whitesmoke;
 }
 
+.olympic-content p {
+    margin: 25px;
+}
+
 .olympic-picture {
     height: auto;
     width: 100%;
