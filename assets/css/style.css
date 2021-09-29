@@ -290,13 +290,14 @@ footer p {
 
 .startup-picture {
     min-height: 300px;
-    background-color: whitesmoke
+    background-color: whitesmoke;
+    overflow: hidden;
 }
 
 .startup-picture img {
     width: 100%;
+    min-width: 400px;
     min-height: 300px;
-    overflow: hidden;
 }
 
 .sub_intro {
