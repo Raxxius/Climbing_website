@@ -326,6 +326,10 @@ footer p {
     margin: 15px;
 }
 
+.startup-spacer {
+    width: 100%;
+}
+
 /* index responsive text */
 
 #reason-image-1:hover {
