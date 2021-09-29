@@ -235,7 +235,9 @@ footer p {
     /* https://walltopia.com/en/climbing-walls/speed-walls */
 }
 
-#olympic-speed-2 {
+#olympic-speed-3 img {
+    margin:0 -100%;
+    vertical-align:middle;
 }
 
 .overlay {
