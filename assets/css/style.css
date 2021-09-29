@@ -278,7 +278,8 @@ footer p {
 }
 
 .startup-text {
-    height: 250px;
+    height: auto;
+    min-height: 250px;
     width: 100%;
     background-color: whitesmoke;
 }
@@ -310,7 +311,8 @@ footer p {
 }
 
 #getting-into-climbing-intro {
-    height: 300px;
+    height: auto;
+    min-height: 300px;
     width: 100%;
     background-color: whitesmoke;
 }
@@ -390,22 +392,16 @@ footer p {
         width: 80%;
         margin-left: 10%;
         flex-wrap: wrap;
-        height: 900px;
+        height: auto;
+        flex-direction: row-reverse;
     }
 
     .startup-picture {
         width: 40%;
-        order: 3;
     }
 
     .startup-text {
         width: 60%;
-        order: 1;
-    }
-
-    .sub_intro {
-        width: 60%;
-        order: 1;
     }
 
     #getting-into-climbing-intro {
