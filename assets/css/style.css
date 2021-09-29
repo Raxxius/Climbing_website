@@ -262,6 +262,18 @@ footer p {
     height: 80%;
 }
 
+.gold_medal {
+    color: gold;
+}
+
+.silver_medal {
+    color: silver;
+}
+
+.bronze_medal {
+    color: #cd7f32;
+}
+
 /*startup page CSS */
 
 #startup-parent-flex {
