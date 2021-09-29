@@ -2,7 +2,6 @@
     margin: 0 0 0 0;
     padding: 0;
     border: none;
-    background-color: whitesmoke;
 }
 
 /* dyslexic friendly font design choice */
@@ -193,6 +192,7 @@ footer p {
 
 .olympic-content p {
     margin: 25px;
+    color: darkslategrey;
 }
 
 .olympic-picture {
@@ -202,6 +202,11 @@ footer p {
     overflow: hidden;
     display: block;
     text-align: center;
+    color: darkslategrey;
+}
+
+.olympic-picture p {
+    color: darkslategrey;
 }
 
 .intro {
@@ -212,7 +217,12 @@ footer p {
     flex-direction: column;
     justify-content: flex-end;
     align-items: center;
-    background-color: whitesmoke;
+    background-color: #424952;
+}
+
+.intro h1, h2, p {
+    color: whitesmoke;
+    margin: 20px;
 }
 
 #olympic-parent-flex {
