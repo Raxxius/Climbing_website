@@ -262,6 +262,14 @@ footer p {
     height: 80%;
 }
 
+.olympic-result i {
+    font-size: 200%;
+}
+
+.olympic-result p {
+    padding-bottom: 12px;
+}
+
 .gold_medal {
     color: gold;
 }
