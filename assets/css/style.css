@@ -290,7 +290,7 @@ footer p {
 
 .startup-picture {
     min-height: 300px;
-    background-color: lemonchiffon;
+    background-color: whitesmoke
 }
 
 .startup-picture img {
@@ -306,7 +306,6 @@ footer p {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    align-items: center;
     background-color: whitesmoke;
 }
 
