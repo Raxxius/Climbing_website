@@ -289,14 +289,14 @@ footer p {
 }
 
 .startup-picture {
-    height: 300px;
+    min-height: 300px;
     background-color: lemonchiffon;
-    overflow: hidden;
 }
 
 .startup-picture img {
-    height: 100%;
+    width: 100%;
     min-height: 300px;
+    overflow: hidden;
 }
 
 .sub_intro {
