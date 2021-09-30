@@ -49,6 +49,12 @@ For the purpose of demonstartion the website will be principally coded in HTML w
     - The footer The footer section includes links to social media sites, currently these links don't attach to actual accounts.
 
 
+## __Validation__
+
+HTML
+    - No errors were returned when passing through the official W3C validator.
+CSS
+    - No errors were found when passing through the official (Jigsaw) validator.
     
     
     
