@@ -272,13 +272,11 @@ footer p {
 }
 
 .olympic-result {
-    height: 300px;
     width: 100%;
     background-color: whitesmoke;
     overflow: hidden;
     padding-bottom: 12px;
 }
-
 
 .olympic-result img {
     height: auto;
