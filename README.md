@@ -30,7 +30,7 @@ For the purpose of demonstartion the website will be principally coded in HTML w
     
 ## Getting Started Page
 
-![Index page](https://raxxius.github.io/climbing_website/assets/images/start_wireframe.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/startup_layout.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/index_phone.png)
+![Index page](https://raxxius.github.io/climbing_website/assets/images/start_wireframe.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/startup_layout.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/startup_page.png)
 
 
     - The purpose of this page is to introduce the most common types of climbing a new person may look at doing, with a brief description of what equipment is needed.
