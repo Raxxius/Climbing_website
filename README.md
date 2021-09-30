@@ -24,11 +24,13 @@ For the purpose of demonstartion the website will be principally coded in HTML w
     - Following the initial section there is a short setup to advertise the user to look at the other parts of the website, as the nav bar floats, they will not need to scroll to access the next parts of the web page.
     
     
-## Getting into climbing
+## Getting Started Page
 
-    - This pages purpose is to show the most common types of climbing regular people interested in climbing do, and the equipment they use when climbing.
+    - The purpose of this page is to introduce the most common types of climbing a new person may look at doing, with a brief description of what equipment is needed.
 
-    - The 3 most simple styles of climbing - Bouldering, Lead Climbing and Sports Climbing will be breifly explained
+    - The page is responsive and will change order based on the viewer screen, in phone mode the images and text alternate in order.
+
+    - In tablet and desktop mode the text is displayed on the left of the screen with the images on the right, the tablet mode has a smaller border than the desktop.
 
 ### __Olympics___
 
