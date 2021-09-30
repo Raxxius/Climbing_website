@@ -291,6 +291,15 @@ footer p {
     padding-bottom: 12px;
 }
 
+#medal_lists {
+    display: flex;
+    flex-flow: wrap;
+}
+
+.medal_list_box {
+    width: 50%;
+}
+
 .gold_medal {
     color: gold;
 }
