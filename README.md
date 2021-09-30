@@ -58,7 +58,7 @@ For the purpose of demonstartion the website will be principally coded in HTML w
 
     - Lighthouse values all in the green except for the index page which is 89
 
-    [image of lightouse Index page](https://raxxius.github.io/climbing_website/images/indexpage.png)
+    [image of lightouse Index page](https://raxxius.github.io/climbing_website/images/Indexpage.png)
 
 
 ## __Future work__
