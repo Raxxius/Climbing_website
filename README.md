@@ -8,19 +8,23 @@ The sight is targeted towards indivduals who have no climbing experience but are
 
 For the purpose of demonstartion the website will be principally coded in HTML with CSS. 
 
-### __Navigation Bar__
+### __Navigation Bar in the header__
 
     - The Navigation Bar is a feature of all 3 core pages, it is setup to float so it's avalible at all times.
     - This feature will prevent the need to use the 'back' button
 
-### __Index Page__
+## Index Page
 
-    -The index page contains a hero image of Alex Honald, a famous climber who has climbed El Capitan without any protective equipment (known as free soloing). 
-    - Following this there is a small section introducing climbing as a fun activity, with 3 reasons to climb. These 3 sections will be displayed by clicking on the corresponding image.
+    - The index page contains a hero image of Alex Honald, a famous climber who has climbed El Capitan without any protective equipment (known as free soloing).
+
+    - The page is responsive and will change order based on the viewer sceen, in small tablet and phone mode the images and text alternate in order.
+
+    - In desktop mode the 3 images are displayed in a row. Additionally a hover effect will provide a positive message when the cursor is floated over the image.
+
+    - Following the initial section there is a short setup to advertise the user to look at the other parts of the website, as the nav bar floats, they will not need to scroll to access the next parts of the web page.
     
-    - The final part of the index page is a footnote giving a an outro of different types of climbing and if they'd like to know more.
     
-### __Getting into climbing__
+## Getting into climbing
 
     - This pages purpose is to show the most common types of climbing regular people interested in climbing do, and the equipment they use when climbing.
 
