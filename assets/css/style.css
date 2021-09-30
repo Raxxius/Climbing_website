@@ -136,13 +136,15 @@ footer p {
     background-color: whitesmoke
 }
 
+
 #reason-image-1 {
     margin: 5px;
     height: 300px;
-    background-image: url(../images/about1.jpg);
+    background: url(../images/about1.jpg) no-repeat;
+    /* image source https://particle.scitech.org.au/people/the-mind-and-body-benefits-of-bouldering/ */
     overflow: hidden;
-    background-size: 800px;
-    background-position: 50% 20%;
+    background-size: 1000px;
+    background-position: 50% 40%;
 }
 
 #reason-2 {
