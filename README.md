@@ -51,10 +51,17 @@ For the purpose of demonstartion the website will be principally coded in HTML w
 
 ## __Validation__
 
-HTML
+    - HTML
     - No errors were returned when passing through the official W3C validator.
-CSS
+    - CSS
     - No errors were found when passing through the official (Jigsaw) validator.
+
+    - Lighthouse values all in the green
+
+
+## __Future work__
+
+    - Future plans include expanding the gear section with further links to popular brands and adding a google maps section where a person can type in their postcode and be shown the nearest climbing wall avalible to them - this was not done due to time.
     
     
     
