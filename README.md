@@ -36,7 +36,19 @@ For the purpose of demonstartion the website will be principally coded in HTML w
 
     - As climbing was introduced to the 2021 olympics for the first time in history, this page is dedicated to the recent Olympics, with a brief introduction to the displines the altheles had conducted.
 
+    - The page is responsive and will change order based on the viewer screen, in phone mode the images and text alternate in order.
+
+    - In tablet mode the images are paired below the relevant text section, while in fullscreen mode the images sandwich the text.
+
+    - Additionally in full screen the images to the left will enlarge when clicked on, this is to give a better view of the quite detailed images. A further click will return the screen to the previous setup.
+
     - The final stage is a small medal run with the olympic medalists names present in a list, additionally there is a mention of the world record that was broken by one of the female speed climbers.
+
+### __Footer__
+
+    - The footer The footer section includes links to social media sites, currently these links don't attach to actual accounts.
+
+
     
     
     
