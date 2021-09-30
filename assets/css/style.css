@@ -204,6 +204,11 @@ footer p {
     color: darkslategrey;
 }
 
+.olympic-picture img {
+    margin:0 -100%;
+    vertical-align:middle; 
+}
+
 .olympic-picture p {
     color: darkslategrey;
 }
@@ -246,11 +251,6 @@ footer p {
 
 #olympic-speed-1 img {
     /* https://walltopia.com/en/climbing-walls/speed-walls */
-}
-
-#olympic-speed-3 img {
-    margin:0 -100%;
-    vertical-align:middle;
 }
 
 .overlay {
