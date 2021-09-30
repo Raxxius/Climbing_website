@@ -15,7 +15,7 @@ For the purpose of demonstartion the website will be principally coded in HTML w
 
 ## Index Page
 
-![Wireframe of the Index](https://raxxius.github.io/climbing_website/assets/images/wireframe_Index.png) ![Index layout](https://raxxius.github.io/climbing_website/assets/images/index_layout.png)
+![Wireframe of the Index](https://raxxius.github.io/climbing_website/assets/images/wireframe_Index.png) ![Index layout](https://raxxius.github.io/climbing_website/assets/images/index_layout.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/Index_preview.png)
 
     - The index page contains a hero image of Alex Honald, a famous climber who has climbed El Capitan without any protective equipment (known as free soloing).
 
