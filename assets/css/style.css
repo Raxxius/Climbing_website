@@ -184,6 +184,12 @@ footer p {
 
 /*Olympics page CSS */
 
+#olympic-title-intro {
+    height: 80px;
+    padding-top: 180px;
+}
+
+
 .olympic-content {
     width: 100%;
     background-color: whitesmoke;
