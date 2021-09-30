@@ -130,11 +130,9 @@ footer p {
     height: auto;
 }
 
-
 #reason-1 {
     background-color: whitesmoke
 }
-
 
 #reason-image-1 {
     margin: 5px;
@@ -584,13 +582,13 @@ footer p {
 
 /* index responsive text */
 
-.reasons:hover {
-    opacity: 0.4;
-}
+    .reasons:hover {
+        opacity: 0.4;
+    }
 
-.reasons:hover h2 {
-    opacity: 1;
-}
-
+    .reasons:hover h2 {
+        opacity: 1;
+        z-index: 52;
+    }
 
 }
