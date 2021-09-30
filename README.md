@@ -56,7 +56,9 @@ For the purpose of demonstartion the website will be principally coded in HTML w
     - CSS
     - No errors were found when passing through the official (Jigsaw) validator.
 
-    - Lighthouse values all in the green
+    - Lighthouse values all in the green except for the index page which is 89
+
+    ![image of lightouse Index page](https://raxxius.github.io/climbing_website/images/index page.png)
 
 
 ## __Future work__
