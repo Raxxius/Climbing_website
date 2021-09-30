@@ -252,8 +252,24 @@ footer p {
 .olympic-result {
     height: 300px;
     width: 100%;
-    background-color: lightyellow;
+    background-color: whitesmoke;
+    overflow: hidden;
+    padding-bottom: 12px;
 }
+
+.olympic-result h1, h2, p {
+    color:darkslategrey;
+}
+
+.olympic-result img {
+    height: 80%;
+}
+
+.olympic-result i {
+    font-size: 200%;
+}
+
+
 
 #olympic-speed-1 img {
     /* https://walltopia.com/en/climbing-walls/speed-walls */
@@ -272,23 +288,6 @@ footer p {
     align-items: center;
     text-align: center;  
     visibility: hidden;
-}
-
-.olympic-result {
-    height: 400px;
-    overflow: hidden;
-}
-
-.olympic-result img {
-    height: 80%;
-}
-
-.olympic-result i {
-    font-size: 200%;
-}
-
-.olympic-result {
-    padding-bottom: 12px;
 }
 
 #medal_lists {
