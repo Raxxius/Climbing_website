@@ -189,7 +189,6 @@ footer p {
     padding-top: 180px;
 }
 
-
 .olympic-content {
     width: 100%;
     background-color: whitesmoke;
@@ -230,8 +229,31 @@ footer p {
     background-color: #424952;
 }
 
-.olympic-intro h1, h2, p {
+#olympic-intro-header {
     color: whitesmoke;
+}
+
+#olympic-speed-header {
+    color: whitesmoke;
+}
+
+#olympic-bouldering-header {
+    color: whitesmoke
+}
+
+#olympic-lead-header {
+    color: whitesmoke
+}
+
+#olympic-results-header {
+    color: whitesmoke;
+}
+
+#olympic-intro-text {
+    color: whitesmoke;
+}
+
+.olympic-intro h1, h2, p {
     margin: 20px;
 }
 
@@ -257,12 +279,15 @@ footer p {
     padding-bottom: 12px;
 }
 
-.olympic-result h1, h2, p {
-    color:darkslategrey;
-}
 
 .olympic-result img {
-    height: 80%;
+    height: auto;
+    width: 100%;
+    background-color: whitesmoke;
+    overflow: hidden;
+    display: block;
+    text-align: center;
+    color: darkslategrey;
 }
 
 .olympic-result i {
