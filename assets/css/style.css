@@ -371,6 +371,11 @@ footer p {
     overflow: hidden;
 }
 
+.picturebox {
+    margin: 5px;
+    overflow: hidden;
+}
+
 .startup-picture img {
     width: 100%;
     min-width: 400px;
