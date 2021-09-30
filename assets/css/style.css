@@ -122,26 +122,27 @@ footer p {
 /*climbing reasons style*/
 
 #climbing-reasons {
-    height: 1500px;
     overflow: hidden;
 }
 
 #reasons-box {
-    height: 1500px;
     display: flex;
     flex-flow: column;
     background-color: white;
 }
 
+
 .reasons {
-    height: 300px;
+    height: auto;
 }
 
+
 #reason-1 {
-    background-color: lightsteelblue;
+    background-color: whitesmoke
 }
 
 #reason-image-1 {
+    margin: 5px;
     height: 300px;
     background-image: url(../images/about1.jpg);
     overflow: hidden;
@@ -150,10 +151,11 @@ footer p {
 }
 
 #reason-2 {
-    background-color: lightpink;
+    background-color: whitesmoke
 }
 
 #reason-image-2 {
+    margin: 5px;
     height: 300px;
     background: url(../images/about2.jpg) no-repeat;
     overflow: hidden;
@@ -162,10 +164,11 @@ footer p {
 }
 
 #reason-3 {
-    background-color: lightskyblue;
+    background-color: whitesmoke
 }
 
 #reason-image-3 {
+    margin: 5px;
     height: 300px;
     background: url(../images/about3.jpg) no-repeat;
     background-size: 1000px;
@@ -173,13 +176,12 @@ footer p {
 }
 
 .reasons-text {
-    height: 200px;
-    background-color: lightgreen;
+    background-color: whitesmoke
 }
 
 #climb-more-info {
     height: 300px; 
-    background-color: lightsalmon;
+    background-color: whitesmoke
 }
 
 /*Olympics page CSS */
@@ -558,11 +560,6 @@ footer p {
 
     #reason-3 {
         order: 3;
-    }
-
-    .reasons-text {
-    width: 75%;
-    margin-left: 12.5%;
     }
 
     #reasons-text-1 {
