@@ -44,6 +44,9 @@ For the purpose of demonstartion the website will be principally coded in HTML w
 
     - As climbing was introduced to the 2021 olympics for the first time in history, this page is dedicated to the recent Olympics, with a brief introduction to the displines the altheles had conducted.
 
+![Index page](https://raxxius.github.io/climbing_website/assets/images/olympic_wireframe.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/olmypic_layout.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/olympic_preview.png)
+
+
     - The page is responsive and will change order based on the viewer screen, in phone mode the images and text alternate in order.
 
     - In tablet mode the images are paired below the relevant text section, while in fullscreen mode the images sandwich the text.
