@@ -58,8 +58,11 @@ For the purpose of demonstartion the website will be principally coded in HTML w
 
     - Lighthouse values all in the green except for the index page which is 89
 
+Index Page score
 ![image of lightouse Index page](https://raxxius.github.io/climbing_website/assets/images/Indexpage.png)
+Startup Page score
 ![image of lightouse Startup page](https://raxxius.github.io/climbing_website/assets/images/Startuppage.png)
+Olympics Page score
 ![image of lightouse Olympics page](https://raxxius.github.io/climbing_website/assets/images/Olympicspage.png)
 
 ## __Future work__
