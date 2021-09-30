@@ -126,7 +126,6 @@ footer p {
     background-color: white;
 }
 
-
 .reasons {
     height: auto;
 }
@@ -162,7 +161,8 @@ footer p {
 }
 
 #reason-3 {
-    background-color: whitesmoke
+    background-color: whitesmoke;
+    margin-top: -15px;
 }
 
 #reason-image-3 {
@@ -173,8 +173,19 @@ footer p {
     background-position: 80% 30%;
 }
 
+.reasons-undertext {
+    font-size: 300%;
+    text-transform: uppercase;
+    color: black;
+    opacity: 0;
+}
+
 .reasons-text {
     background-color: whitesmoke
+}
+
+#why-climb {
+    text-align: center;
 }
 
 #climb-more-info {
@@ -421,36 +432,14 @@ footer p {
 
 /* index responsive text */
 
-#reason-image-1:hover {
+.reasons:hover {
     opacity: 0.5;
 }
 
-#reason-image-2:hover {
-    opacity: 0.5;
+.reasons:hover h2 {
+    opacity: 1;
 }
 
-#reason-image-3:hover {
-    opacity: 0.5;
-}
-
-
-/* responsive text box 
-
-.reasons-text-1::before {
-    display: contents;
-    content: "reasons text box 1";
-}
-
-.reasons-text-2 {
-    display: contents;
-    content: "reasons text box 1";
-}
-
-.reasons-text-3 {
-    display: contents;
-    content: "reasons text box 1";
-}
-*/
 
 /* responsive CSS */
 
