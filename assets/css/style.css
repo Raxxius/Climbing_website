@@ -292,8 +292,6 @@ footer p {
     font-size: 200%;
 }
 
-
-
 #olympic-speed-1 img {
     /* https://walltopia.com/en/climbing-walls/speed-walls */
 }
@@ -316,6 +314,10 @@ footer p {
 #medal_lists {
     display: flex;
     flex-flow: wrap;
+}
+
+#medal_lists ol {
+    list-style: none;
 }
 
 .medal_list_box {
