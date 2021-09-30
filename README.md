@@ -32,10 +32,11 @@ For the purpose of demonstartion the website will be principally coded in HTML w
 
 ![Index page](https://raxxius.github.io/climbing_website/assets/images/start_wireframe.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/startup_layout.png) ![Index page](https://raxxius.github.io/climbing_website/assets/images/startup_page.png)
 
-
     - The purpose of this page is to introduce the most common types of climbing a new person may look at doing, with a brief description of what equipment is needed.
 
     - The page is responsive and will change order based on the viewer screen, in phone mode the images and text alternate in order.
+
+![Index page](https://raxxius.github.io/climbing_website/assets/images/startup_phone.png)
 
     - In tablet and desktop mode the text is displayed on the left of the screen with the images on the right, the tablet mode has a smaller border than the desktop.
 
