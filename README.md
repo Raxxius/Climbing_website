@@ -21,6 +21,8 @@ For the purpose of demonstartion the website will be principally coded in HTML w
 
     - The page is responsive and will change order based on the viewer sceen, in small tablet and phone mode the images and text alternate in order.
 
+![Index page](https://raxxius.github.io/climbing_website/assets/images/index_phone.png)
+
     - In desktop mode the 3 images are displayed in a row. Additionally a hover effect will provide a positive message when the cursor is floated over the image.
 
     - Following the initial section there is a short setup to advertise the user to look at the other parts of the website, as the nav bar floats, they will not need to scroll to access the next parts of the web page.
